@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+}
+
+.page{
+  margin: 4rem;
+}
+
+.formUser{
+    background-color: rgb(242, 235, 235);
+    border-radius: 10px;
+    width: 40%;
+    height: auto;
+    padding: 1rem; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.formUser input, .formUser button{
+  margin-top: 1rem;
+}
+
+.formUser button {
+  margin-left: -28.5rem;
+}
